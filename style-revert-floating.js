@@ -103,11 +103,6 @@
         
         const selectedBlock = select('core/block-editor').getSelectedBlock();
         
-        // Debug: Log all selected block names to console
-        if (selectedBlock) {
-            console.log('[GB Style Revert] Selected block name:', selectedBlock.name);
-        }
-        
         if (!selectedBlock || !isSupportedBlock(selectedBlock.name)) {
             if (floatingPanel) {
                 floatingPanel.style.display = 'none';
