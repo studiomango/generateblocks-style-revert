@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: GenerateBlocks & GenerateBlocks Pro Style Revert
- * Plugin URI: https://github.com/studio-mango/generateblocks-style-revert
+ * Plugin URI: https://github.com/studiomango/generateblocks-style-revert
  * Description: Adds undo/redo buttons for GenerateBlocks and GenerateBlocks Pro block style changes.
  * Version: 1.1.0
  * Author: Studio Mango
