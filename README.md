@@ -20,6 +20,10 @@ This is **not an official plugin** - it's a community solution while the Generat
 - 🆓 **Free + Pro Support**: Works with both GenerateBlocks free and Pro versions
 - 🔄 **Auto-Detection**: Automatically enables appropriate functionality based on your version
 
+[![GenerateBlocks - Revert style buttons - Watch Video](https://cdn.loom.com/sessions/thumbnails/f51ef922f1044b31a220bb1d26ea4a7d-0f208f8a6726fb89-full-play.gif)](https://www.loom.com/share/f51ef922f1044b31a220bb1d26ea4a7d)
+
+*Click the image above to watch the demo video*
+
 ## 🎛️ Supported Blocks
 
 ### GenerateBlocks (Free)
