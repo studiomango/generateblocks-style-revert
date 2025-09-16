@@ -1,0 +1,61 @@
+/**
+ * GenerateBlocks & GeneratePress Style Revert - Floating Panel CSS
+ */
+
+/* Floating panel styles */
+.gb-style-revert-floating {
+    position: fixed;
+    bottom: 20px;
+    right: 20px;
+    background: #fff;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    padding: 8px;
+    z-index: 100000;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+}
+
+.gb-style-revert-buttons {
+    display: flex;
+    gap: 4px;
+}
+
+.gb-style-revert-btn {
+    width: 32px;
+    height: 32px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0;
+    background: #2271b1;
+    color: #fff;
+    border: none;
+    border-radius: 2px;
+    cursor: pointer;
+    transition: background-color 0.2s;
+}
+
+.gb-style-revert-btn:hover:not(:disabled) {
+    background: #135e96;
+}
+
+.gb-style-revert-btn:disabled {
+    opacity: 0.5;
+    cursor: not-allowed;
+}
+
+.gb-style-revert-btn .dashicons {
+    font-size: 20px;
+    width: 20px;
+    height: 20px;
+}
+
+.gb-style-revert-info {
+    font-size: 11px;
+    color: #757575;
+    margin: 0;
+    padding: 0 4px;
+}
